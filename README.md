@@ -1,5 +1,7 @@
 
-<img src="https://i.pinimg.com/originals/df/ea/dd/dfeaddf703acf71277dbb1d6d81479b0.gif" width="15%" height="15%">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/68199625/111290872-93d91700-866c-11eb-8cb7-da9f7de7ddcb.gif">
+</p>
 <br/>
 Hello There !! 👋
 
@@ -9,11 +11,11 @@ Since the time I was a child, programming improvement has been my obsession. I a
 This enthusiasm helped me through my bachelors in Christ (Deemed to be University) Bangalore, India. Also, it was here I genuinely figured out how much there was at this point to learn.
 Thus, presently, in industry and my masters in BITS PILANI, the passion stays with me. There's surely yet more to learn and issues to tackle and yet to build. 
 And for this, I am grateful. :P
-
+<p align="center"
 Specialties: 
-<b>Languages</b>
-<img src="https://www.techbaz.org/Course/img/c-logo.png" width="15%" height="15%">
-
+<b>Languages</b><br/>
+<img src="https://www.techbaz.org/Course/img/c-logo.png" width="5%" height="5%">
+</p>
 
 
 
