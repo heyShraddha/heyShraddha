@@ -10,7 +10,9 @@ This enthusiasm helped me through my bachelors in Christ (Deemed to be Universit
 Thus, presently, in industry and my masters in BITS PILANI, the passion stays with me. There's surely yet more to learn and issues to tackle and yet to build. 
 And for this, I am grateful. :P
 
-Specialties: Languages
+Specialties: 
+<b>Languages</b>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.britefish.net%2Fc-programming-language%2F&psig=AOvVaw1npbjGQhVrdLiqK3U0mvzm&ust=1615971257709000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPD64pm4tO8CFQAAAAAdAAAAABAD" width="15%" height="15%">
 
 
 
