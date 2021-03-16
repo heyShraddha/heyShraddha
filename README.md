@@ -1,9 +1,10 @@
+<br/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/68199625/111290872-93d91700-866c-11eb-8cb7-da9f7de7ddcb.gif" width="5%" height="5%">
+  Hello There !! 👋 <br/>
+  <img src="https://user-images.githubusercontent.com/68199625/111291998-be779f80-866d-11eb-85c8-8e6a99ac18c3.gif" width="5%" height="5%">
 </p>
-<br/>
-Hello There !! 👋
+
 
 
 Since the time I was a child, programming improvement has been my obsession. I actually recall sitting before PC and running QBASIC commands to move cursor left and right. It was much the same as a sorcery, being capable to get the PC to do whatever I needed. Throughout middle and high-school, I latched on to any ideas for projects I could get, moving from "Hello World" all the way to dozen of projects I tried implementing through C and Java.
