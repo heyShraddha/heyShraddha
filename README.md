@@ -13,9 +13,12 @@ This enthusiasm helped me through my bachelors in Christ (Deemed to be Universit
 Thus, presently, in industry and my masters in BITS PILANI, the passion stays with me. There's surely yet more to learn and issues to tackle and yet to build. 
 And for this, I am grateful. :P
 <p align="center"
+<!---
 Specialties: 
 <b>Languages</b><br/>
 <img src="https://www.techbaz.org/Course/img/c-logo.png" width="5%" height="5%">
+<img src="https://user-images.githubusercontent.com/68199625/111292477-3940ba80-866e-11eb-9d46-d04298d47085.png" width="3.95%" height="3.95%">
+<img src="https://user-images.githubusercontent.com/68199625/111293008-ce43b380-866e-11eb-9631-01644f637116.png"  width="7%" height="7%">
 </p>
 
 
