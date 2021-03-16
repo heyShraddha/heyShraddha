@@ -12,7 +12,7 @@ And for this, I am grateful. :P
 
 Specialties: 
 <b>Languages</b>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.britefish.net%2Fc-programming-language%2F&psig=AOvVaw1npbjGQhVrdLiqK3U0mvzm&ust=1615971257709000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPD64pm4tO8CFQAAAAAdAAAAABAD" width="15%" height="15%">
+<img src="https://www.techbaz.org/Course/img/c-logo.png" width="15%" height="15%">
 
 
 
