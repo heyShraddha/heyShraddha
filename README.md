@@ -3,9 +3,10 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
+<img src="https://i.pinimg.com/originals/df/ea/dd/dfeaddf703acf71277dbb1d6d81479b0.gif" width="15%" height="15%">
+<br/>
 Hello There !! 👋
-<br/><img src="https://i.pinimg.com/originals/df/ea/dd/dfeaddf703acf71277dbb1d6d81479b0.gif" width="7%" height="7%">
+
 
 Since the time I was a child, programming improvement has been my obsession. I actually recall sitting before PC and running QBASIC commands to move cursor left and right. It was much the same as a sorcery, being capable to get the PC to do whatever I needed. Throughout middle and high-school, I latched on to any ideas for projects I could get, moving from "Hello World" all the way to dozen of projects I tried implementing through C and Java.
 
