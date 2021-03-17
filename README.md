@@ -12,14 +12,19 @@ Since the time I was a child, programming improvement has been my obsession. I a
 This enthusiasm helped me through my bachelors in Christ (Deemed to be University) Bangalore, India. Also, it was here I genuinely figured out how much there was at this point to learn.
 Thus, presently, in industry and my masters in BITS PILANI, the passion stays with me. There's surely yet more to learn and issues to tackle and yet to build. 
 And for this, I am grateful. :P
-<p align="center"
-<!---
+
+<p align="center">
 Specialties: 
 <b>Languages</b><br/>
-<img src="https://www.techbaz.org/Course/img/c-logo.png" width="5%" height="5%">
-<img src="https://user-images.githubusercontent.com/68199625/111292477-3940ba80-866e-11eb-9d46-d04298d47085.png" width="3.95%" height="3.95%">
-<img src="https://user-images.githubusercontent.com/68199625/111293008-ce43b380-866e-11eb-9631-01644f637116.png"  width="7%" height="7%">
+<img src="https://www.techbaz.org/Course/img/c-logo.png" width="5%" height="5%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/68199625/111292477-3940ba80-866e-11eb-9d46-d04298d47085.png" width="4%" height="4%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/68199625/111416508-1bc12e80-870a-11eb-8d94-adc2af707466.png" width="3.25%" height="3.25%">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://user-images.githubusercontent.com/68199625/111419628-d142b080-870f-11eb-9509-5484d40a80c3.jpg" width="7%" height="7%">
+
+
 </p>
+
 
 
 
