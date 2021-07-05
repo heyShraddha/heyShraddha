@@ -24,10 +24,19 @@ Specialties:
 
 
 
+  
+  
 
 
 
 </p>
+
+<div align="center" margin="5rem">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyShraddha&theme=dark&show_icons=true)
+</div>
+
+
 
 
 
