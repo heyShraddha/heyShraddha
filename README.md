@@ -1,4 +1,4 @@
-<br/>
+
 
 <p align="center">
   Hello There !! 👋 <br/>
@@ -22,6 +22,8 @@ Specialties:
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://user-images.githubusercontent.com/68199625/111419628-d142b080-870f-11eb-9509-5484d40a80c3.jpg" width="7%" height="7%">
 
+<br/>
+  <img src = "https://user-images.githubusercontent.com/68199625/124507710-01f84400-ddec-11eb-9b6d-eb0a7add1d0d.png" width="30.25%" height="30.25%">
 
 
   
