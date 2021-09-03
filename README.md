@@ -42,6 +42,12 @@ Specialties:
 
 
 
+Few Other Achievements from the teams, I worked.
+
+![image](https://user-images.githubusercontent.com/68199625/132010933-66e644e6-d10f-42be-8eff-f4065637b894.png)
+![image](https://user-images.githubusercontent.com/68199625/132010788-f33d37b0-da96-472d-89fe-2e65fcc83248.png)
+![image](https://user-images.githubusercontent.com/68199625/132010880-a64cd19a-0a7b-4355-92c4-f25cefdee0b0.png)
+
 
 
 <!---
