@@ -22,8 +22,6 @@ Specialties:
 <img src="https://user-images.githubusercontent.com/68199625/111416508-1bc12e80-870a-11eb-8d94-adc2af707466.png" width="3.25%" height="3.25%">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://user-images.githubusercontent.com/68199625/111419628-d142b080-870f-11eb-9509-5484d40a80c3.jpg" width="7%" height="7%">
-![image](https://user-images.githubusercontent.com/68199625/137582810-3bf91389-4e7f-4b15-9f6d-bfdb2caf9aba.png)
-
 <br/>
   <img src = "https://user-images.githubusercontent.com/68199625/124507710-01f84400-ddec-11eb-9b6d-eb0a7add1d0d.png" width="30.25%" height="30.25%">
 
