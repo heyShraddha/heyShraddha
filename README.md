@@ -14,6 +14,9 @@ This enthusiasm helped me through my bachelors in Christ (Deemed to be Universit
 Thus, presently, in industry and my masters in BITS PILANI, the passion stays with me. There's surely yet more to learn and issues to tackle and yet to build. 
 And for this, I am grateful. :P
 
+Currently I hold 3+ years of experience in Web Development, App Development and Security. 
+Do Reach me out in case of any opportunity. 
+
 <p align="center">
 Specialties: 
 <b>Languages</b><br/>
