@@ -1,0 +1,16 @@
+{
+  "name": "PoC",
+  "version": "1.0.0",
+  "description": "",
+  "main": "week2_work.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
