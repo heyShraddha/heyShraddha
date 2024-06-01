@@ -81,7 +81,8 @@ curl -X POST http://localhost:3000/deserialize/json -H "Content-Type: applicatio
 
 
 
-Key Learnings
-Serialization and Deserialization Performance: Custom serialization methods can significantly reduce latency, especially for large data sets.
-Scalability Considerations: While JSON is efficient for small to moderate data sizes, custom methods are necessary to handle high-performance requirements.
-Microservice Integration: Implementing custom data interchange mechanisms within microservices can optimize overall system performance.
+### Key Learnings
+
+- Serialization and Deserialization Performance: Custom serialization methods can significantly reduce latency, especially for large data sets.
+- Scalability Considerations: While JSON is efficient for small to moderate data sizes, custom methods are necessary to handle high-performance requirements.
+- Microservice Integration: Implementing custom data interchange mechanisms within microservices can optimize overall system performance.
