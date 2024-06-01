@@ -1,4 +1,3 @@
-Sure, let's focus on Java-specific examples and explanations for each term:
 
 ---
 
